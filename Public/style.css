@@ -1,0 +1,32 @@
+#sumhead {
+  /* background-color: rgba(0, 0, 0, 0.473); */
+  background-image: linear-gradient(
+    rgb(0, 0, 0),
+    rgb(122, 2, 48),
+    rgb(0, 0, 0)
+  );
+  height: 63px;
+}
+
+#sumtitle {
+  /* font-family: "Fredericka the Great", cursive; */
+  font-family: "Yatra One", cursive;
+  font-size: 45px;
+  letter-spacing: 10px;
+  background: -webkit-linear-gradient(
+    rgb(158, 2, 2),
+    rgb(240, 8, 8),
+    rgb(247, 243, 43),
+    rgb(180, 1, 1),
+    rgb(177, 2, 2)
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  position: absolute;
+  top: 8px;
+  left: 30px;
+  border: 1px solid yellow;
+  height: 50px;
+  width: 250px;
+  text-align: center;
+}
