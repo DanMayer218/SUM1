@@ -1,0 +1,22 @@
+{
+  "name": "sum1",
+  "version": "1.0.0",
+  "description": "a 'friend finder' for the rest of us.\t",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanMayer218/SUM1.git"
+  },
+  "author": "Daniel Mayer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanMayer218/SUM1/issues"
+  },
+  "homepage": "https://github.com/DanMayer218/SUM1#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
